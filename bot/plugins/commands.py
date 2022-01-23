@@ -126,7 +126,7 @@ async def start(bot, update):
         InlineKeyboardButton('Channel🔊', url=f'{MT_CHANNEL}')
     ],[
         InlineKeyboardButton('OWNER🌹', url='https://t.me/TEAM_NARUTO_GRUOP')
-    ]]
+    ]]  InlineKeyboardButton('Search🔥', url='http://t.me/ProAutoFilterRoBot')
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
