@@ -51,13 +51,13 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/CALL_ME_NARUTO_TEAM">👤+1 (620) 741-7649</a></b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MRk_YT">👤Mrk YT</a></b>
+<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/TEAM_NARUTO_GRUOP">👤TEAM NARUTO</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://github.com/NARUTO-SUPPORT/Pro-Auto-Filter-Bot-V2">💥MAKE YOUR OWN</a></b>
 """
